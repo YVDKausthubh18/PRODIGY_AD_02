@@ -1,3 +1,12 @@
-This repository is about Implementation of TO-DO list app using Python Tkinter.
+# PRODIGY_AD_02
 
-This TO DO list app allows us to edit, delete, and add a new list to it.
+This repository is about TO DO list app using Python Tkinter.
+
+This TO DO list app that allows us to add, edit, and delete tasks.
+# Technologies Used
+
+1. Python
+2. Python GUI - Tkinter
+
+
+
